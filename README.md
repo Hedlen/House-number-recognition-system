@@ -92,21 +92,21 @@ The bounding box information are stored in digitStruct.mat instead of drawn dire
 		> tensorboard --logdir=./logs
 ## Results ##
 ### Graph ###
-<img src="./images/graph.png" width=800 height=800></img>
+<img src="./Images/graph.png" width=800 height=800></img>
 ### Accuracy ###
-![image_accuracy](./images/accuracy.png)
+![image_accuracy](./Images/accuracy.png)
 
 93.33% correct rate on the validation dataset
 
 87.43% correct rate on the test dataset (*The correct rate is lower than the correct rate of the original paper, and the improvement of the model continues.*)
 
 ### Loss ###
-![image_Loss](./images/loss.png)
+![image_Loss](./Images/loss.png)
 
 #### Practical testing ####
-<img src="./images/58.png" width=300 height=320 alt="image"></img>
+<img src="./Images/58.png" width=300 height=320 alt="image"></img>
 
-<img src="./images/8888.png" width=300 height=320 alt="image"></img>
+<img src="./Images/8888.png" width=300 height=320 alt="image"></img>
 
 In the figure, the number 10 represents empty.
 

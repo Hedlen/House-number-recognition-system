@@ -24,7 +24,7 @@
 ## Steps ##
 1. Clone the source code(git bash environment)
 
-        > git clone git@github.com:KarlXiao/NumberCamera.git
+        > git clone git@github.com:Hedlen/SVHNNumber.git
         > cd NumberCamera
 2. Download the format 1 dataset based on the above dataset link
 3. Extract the data from the file,The data is as follows:

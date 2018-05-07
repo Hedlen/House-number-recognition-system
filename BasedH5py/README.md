@@ -24,7 +24,7 @@
 ## Steps ##
 1. Clone the source code(git bash environment)
 
-        > git clone git@github.com:KarlXiao/NumberCamera.git
+        > git clone git@github.com:Hedlen/SVHNNumber.git
         > cd NumberCamera
         > cd NumberCamera_Based_h5py
 2. Download the format 1 dataset based on the above dataset link
